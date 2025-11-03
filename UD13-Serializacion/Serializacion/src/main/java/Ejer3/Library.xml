@@ -1,0 +1,12 @@
+<Library>
+    <Book>
+        <title>Time Machine</title>
+        <author>H.G Wells</author>
+        <yearPublished>1895</yearPublished>
+    </Book>
+    <Book>
+        <title>Do Androids Dream of Electric Sheep?</title>
+        <author>Philip K. Dick</author>
+        <yearPublished>1968</yearPublished>
+    </Book>
+</Library>
