@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listaProductos>
+    <listaProductos>
+        <id>1</id>
+        <nombre>Atun</nombre>
+        <precio>4.2</precio>
+    </listaProductos>
+    <listaProductos>
+        <id>2</id>
+        <nombre>Jamon York</nombre>
+        <precio>2.3</precio>
+    </listaProductos>
+</listaProductos>
+

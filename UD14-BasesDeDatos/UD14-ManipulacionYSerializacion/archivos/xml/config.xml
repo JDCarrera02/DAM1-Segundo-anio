@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuracion>
+    <tema>Verde</tema>
+    <idioma>Spanish</idioma>
+    <volumen>34</volumen>
+</configuracion>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuracion>
+    <tema>Azul</tema>
+    <idioma>English</idioma>
+    <volumen>43</volumen>
+</configuracion>

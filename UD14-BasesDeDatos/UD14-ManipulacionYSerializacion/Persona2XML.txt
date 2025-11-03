@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persona2>
+    <nombre>Gabriel</nombre>
+    <edad>34</edad>
+    <correo>ejemplo1234gmail.com</correo>
+</persona2>
+

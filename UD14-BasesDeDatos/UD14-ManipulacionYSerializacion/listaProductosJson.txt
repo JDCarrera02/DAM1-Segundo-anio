@@ -1,0 +1,1 @@
+{"listaProductos":[{"id":1,"nombre":"Atun","precio":4.2},{"id":2,"nombre":"Jamon York","precio":2.3}]}
