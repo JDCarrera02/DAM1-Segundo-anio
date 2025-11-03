@@ -1,0 +1,15 @@
+Titulo del libro: Brave new world
+Autor: Aldous Huxley
+Año de publicacion: 1932-02-04
+Titulo del libro: 1984
+Autor: George Orwell
+Año de publicacion: 1949-08-06
+Nombre de la revista: Pronto
+Autor de la revista: Mariano Nadal
+Año de publicacion: 1972-01-01
+Titulo del libro: Animal Farm
+Autor: George Orwell
+Año de publicacion: 1945-08-17
+Titulo del libro: Hagakure
+Autor: Yamamoto Tsunetomo
+Año de publicacion: 1993-04-05
